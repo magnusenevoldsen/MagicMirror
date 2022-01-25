@@ -20,7 +20,7 @@ Module.register("clock", {
 		clockBold: false,
 		showDate: true,
 		showTime: true,
-		showWeek: false,
+		showWeek: true,
 		dateFormat: "dddd, LL",
 
 		/* specific to the analog clock */
